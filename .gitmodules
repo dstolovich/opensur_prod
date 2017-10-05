@@ -1,0 +1,4 @@
+[submodule "dstolovich/opensur_prod"]
+	path = dstolovich/opensur_prod
+	url = git@github.com:dstolovich/opensur_prod.git
+	branch = master
